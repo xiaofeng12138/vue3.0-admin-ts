@@ -9,5 +9,7 @@ module.exports = {
          prependData:`@import "./src/styles/main.scss";`
        }
      }
-   }
+   },
+
+ 
 };
